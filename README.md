@@ -1,0 +1,1 @@
+# bankga_mijozlarining_qarzini_qaytarish_Prognozi
