@@ -8,7 +8,7 @@ qaytarmaslik ehtimoli (Exited = 0) sun'iy intellekt asosida oldindan aniqlab ber
 ------------------
 Loyihaning maqsadi — mavjud mijozlar haqidagi ma'lumotlarga asoslanib, ularning 
 bankdan chiqib ketish yoki kreditni to'lamaslik xavfini bashorat qilish. 
-Bu bank uchun risklarni oldindan aniqlash va profilaktik choralar ko‘rishga yordam beradi.
+Bu bank uchun risklarni oldindan aniqlash va profilaktik choralar ko'rishga yordam beradi.
 
  Dataset haqida
 -------------------
